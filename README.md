@@ -85,4 +85,4 @@ http://localhost:3000
 ## 실행 화면
 
 ![실행 화면](assets/chat-screen.png)
-!(assets/chat-screen2.png)
+![실행 화면](assets/chat-screen2.png)
